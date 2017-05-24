@@ -1,0 +1,17 @@
+good|bueno|bien|idk
+no|no|non|nein
+yes|si|oui|ja
+hello|hola|bonjour|guten tag
+english|ingles|anglais|englisch
+orange|naranja|no|no
+dog|perro|chien|hund
+pen|boligrafo|stylo|stift
+spanish|espanol|espanol|spanisch
+car|carro|idk|autobus
+face|boca|visage|gesicht
+word|palabra|mot|wort
+head|cabeza|tete|kopf
+red|rojo|rogue|rot
+umbrella|paraguas|parapluie|regenschirm
+what|que|quelle|was
+water|agua|eau|wasser
