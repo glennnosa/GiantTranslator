@@ -16,4 +16,4 @@ If the user chooses to print the program will print out a table of the entire da
 After the program goes through the users initial choice it will prompt the user if it wishes to do something else,
 or enter no to exit the program entirely
 
-<img src "GiantTranslator.PNG">
+<img src "GiantTranslatorFlowchart.PNG">
