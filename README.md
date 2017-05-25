@@ -1,4 +1,4 @@
-The Giant Translator is a multi language word translator
+<h3>The Giant Translator is a multi language word translator</h3>
 It currently supports English, Spanish, French, and German
 It is a simple easy to use program and can be used in many environments from education to work
 When the program launches it compiles the data bank array and prompts the user what it wants to do
